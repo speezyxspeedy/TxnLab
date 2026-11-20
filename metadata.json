@@ -1,0 +1,8 @@
+{
+  "name": "TxnLab",
+  "description": "Interactive database transaction and concurrency simulator for exploring isolation levels, locking, deadlocks, anomalies, and conflict serializability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
